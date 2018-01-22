@@ -1,0 +1,11 @@
+1.0
+- Initial Release
+- Solo Swordmaster only
+1.01
+- Some phase are changed
+- Phase indicator
+- How to use guide PDF
+- Bug fix
+1.10
+- Dual mode
+- Bug fix
